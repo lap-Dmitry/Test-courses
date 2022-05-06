@@ -68,7 +68,7 @@ body {
     }
 
     @media (min-width: 1920px) {
-        grid-template-columns: 35px 151px 1px 182px;
+        grid-template-columns: 35px 175px 1px 182px;
     }
 }
 
@@ -334,7 +334,7 @@ body {
 
 .block-money {
     display: grid;
-    grid-template-columns: 47px 101px;
+    grid-template-columns: 47px 115px;
     grid-column-gap: 25px;
     margin-top: 30px;
 }
